@@ -3,7 +3,7 @@
 
 # 数据集生成
 git clone https://github.com/chinese-poetry/chinese-poetry
-获取诗词，运行process_dataset.py进行处理
+使用别人提供的开源数据集，获取诗词，运行process_dataset.py进行处理
 
 ![image](https://github.com/user-attachments/assets/f57c6ba8-d75f-4836-a9c8-a641c763ffc8)
 
