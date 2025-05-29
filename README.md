@@ -3,6 +3,7 @@
 
 # 数据集生成
 git clone https://github.com/chinese-poetry/chinese-poetry
+
 使用别人提供的开源数据集，获取诗词，运行process_dataset.py进行处理
 
 ![image](https://github.com/user-attachments/assets/f57c6ba8-d75f-4836-a9c8-a641c763ffc8)
@@ -10,7 +11,9 @@ git clone https://github.com/chinese-poetry/chinese-poetry
 
 # 模型训练
 运行transformer_train.py进行训练
+
 模型很简单，就是一个多层transformer，尝试过增加残差连接，效果很差，还不如现在这个模型。
+
 这个模型AI告诉我加入一个语义感知层，效果比只有transformer要好一些，至少看上去更像古诗。
 
 ![image](https://github.com/user-attachments/assets/c74dba84-293a-49cb-a62f-ee17add6c42f)
