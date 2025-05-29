@@ -1,6 +1,4 @@
-![image](https://github.com/user-attachments/assets/2d6a306d-4b8b-49a4-a683-8f26fd442abf)# PoetryTransformer
-
-基于Transformer架构的智能古诗生成系统，能够根据用户输入的上联自动生成意境相符的下联诗句。本项目融合了深度学习与传统文化，实现了高质量的古诗创作能力。
+# 基于Transformer架构的智能古诗生成系统，能够根据用户输入的上联自动生成意境相符的下联诗句。本项目融合了深度学习与传统文化，实现了高质量的古诗创作能力。
 
 # 数据集生成
 git clone https://github.com/chinese-poetry/chinese-poetry
